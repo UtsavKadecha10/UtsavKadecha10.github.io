@@ -565,7 +565,8 @@ ul {
 }
 
 .edu_list ul li{
-    height: 11.5rem;
+    display: inline-block;
+    height: 15rem;
 }
 
 .edu_head {
